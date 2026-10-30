@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7ad739c8-1e4a-4d16-960a-8f488aac5b50")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 160.02 29.21)
+		(size 36.83 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "03160232-9ff5-4fc9-892d-01591414ebf3")
+		(property "Sheetname" "powerMPSOC"
+			(at 160.02 28.4984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerMpsoc.kicad_sch"
+			(at 160.02 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 62.23)
+		(size 35.56 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bb18cac9-84e8-46b9-8731-30bab5fdc04d")
+		(property "Sheetname" "Decoupling"
+			(at 160.02 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "decoupling.kicad_sch"
+			(at 160.02 81.8646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
+					(page "4")
+				)
+			)
+		)
+	)
+)
