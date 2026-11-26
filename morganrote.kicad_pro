@@ -665,7 +665,7 @@
         "uuid": "155f7b29-cc5e-4ee8-ad45-4449f804296e"
       }
     ],
-    "used_designators": "#PWR1-23,#PWR29-91,C1-167,IC1-3,L1-11,R7-38,U1-2",
+    "used_designators": "#PWR1-23,#PWR94-191,C1-2,C168-276,L1-6,R39-76,U1,U3-13",
     "variants": []
   },
   "sheets": [
@@ -716,6 +716,26 @@
     [
       "0e74fecd-5196-4dd6-be2f-46c6d9c41c09",
       "ps_504"
+    ],
+    [
+      "f8076ec0-95e7-41db-a0cc-6a2a766d571b",
+      "ps_mgt"
+    ],
+    [
+      "9d6f2f1d-168b-4119-aceb-b14e0b483d06",
+      "pl_banks_64_65"
+    ],
+    [
+      "0bd06489-6f10-47d6-bad9-88d3bc9661b8",
+      "transciever"
+    ],
+    [
+      "6d233c93-6775-48a8-8063-3a69431a3010",
+      "ddr_supply"
+    ],
+    [
+      "a048e367-6274-4bd0-b665-4025776e9a72",
+      "RF_supply"
     ]
   ],
   "text_variables": {},

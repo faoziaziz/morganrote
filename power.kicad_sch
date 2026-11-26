@@ -98,6 +98,52 @@
 		)
 	)
 	(sheet
+		(at 168.91 77.47)
+		(size 33.02 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a048e367-6274-4bd0-b665-4025776e9a72")
+		(property "Sheetname" "RF_supply"
+			(at 168.91 76.7584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RF_supply.kicad_sch"
+			(at 168.91 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/6e5d5319-9358-4470-b780-2b57ada350f0"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 123.19 73.66)
 		(size 25.4 17.78)
 		(exclude_from_sim no)

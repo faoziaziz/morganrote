@@ -63077,7 +63077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 210.82 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -65659,7 +65659,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 161.29 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -68319,7 +68319,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 54.61 15.24 0)
 			(hide yes)
 			(show_name no)
@@ -71298,7 +71298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 95.25 16.51 0)
 			(hide yes)
 			(show_name no)

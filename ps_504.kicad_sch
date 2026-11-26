@@ -32116,7 +32116,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 120.65 17.78 0)
 			(hide yes)
 			(show_name no)
@@ -34696,7 +34696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:FCBGA-784_L23.0-W23.0-R28-C28-P0.80-BL"
 			(at 219.71 15.24 0)
 			(hide yes)
 			(show_name no)

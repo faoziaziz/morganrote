@@ -144,6 +144,52 @@
 		)
 	)
 	(sheet
+		(at 49.53 102.87)
+		(size 36.83 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6d233c93-6775-48a8-8063-3a69431a3010")
+		(property "Sheetname" "ddr_supply"
+			(at 49.53 102.1584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr_supply.kicad_sch"
+			(at 49.53 136.4746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 64.77 27.94)
 		(size 26.67 19.05)
 		(exclude_from_sim no)
@@ -185,6 +231,52 @@
 			(project "morganrote"
 				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 214.63 62.23)
+		(size 27.94 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9d6f2f1d-168b-4119-aceb-b14e0b483d06")
+		(property "Sheetname" "pl_banks_64_65"
+			(at 214.63 61.5184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pl_banks.kicad_sch"
+			(at 214.63 85.6746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
+					(page "14")
 				)
 			)
 		)
@@ -277,6 +369,52 @@
 			(project "morganrote"
 				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 101.6)
+		(size 30.48 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f8076ec0-95e7-41db-a0cc-6a2a766d571b")
+		(property "Sheetname" "ps_mgt"
+			(at 171.45 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ps_mgt.kicad_sch"
+			(at 171.45 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/256a24c1-b9e9-41b4-98d6-cd1079f4372f"
+					(page "13")
 				)
 			)
 		)
