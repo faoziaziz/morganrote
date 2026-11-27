@@ -98,6 +98,144 @@
 		)
 	)
 	(sheet
+		(at 123.19 144.78)
+		(size 22.86 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5f868ee5-46e5-4e84-8e94-ca383404f2d2")
+		(property "Sheetname" "VPP_DDR"
+			(at 123.19 144.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vpp_ddr.kicad_sch"
+			(at 123.19 163.1446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/6e5d5319-9358-4470-b780-2b57ada350f0"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 168.91 111.76)
+		(size 22.86 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7f6df827-5f59-488d-9daf-64ed7e7a3127")
+		(property "Sheetname" "rf_supply2"
+			(at 168.91 111.0484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rf_supply2.kicad_sch"
+			(at 168.91 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/6e5d5319-9358-4470-b780-2b57ada350f0"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 113.03)
+		(size 24.13 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "94e33bf1-bf12-4093-b66f-844e7ce8e5a7")
+		(property "Sheetname" "rf_supply3"
+			(at 124.46 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rf_supply3.kicad_sch"
+			(at 124.46 132.6646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "morganrote"
+				(path "/155f7b29-cc5e-4ee8-ad45-4449f804296e/6e5d5319-9358-4470-b780-2b57ada350f0"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 168.91 77.47)
 		(size 33.02 24.13)
 		(exclude_from_sim no)
@@ -113,7 +251,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "a048e367-6274-4bd0-b665-4025776e9a72")
-		(property "Sheetname" "RF_supply"
+		(property "Sheetname" "RF_supply_1"
 			(at 168.91 76.7584 0)
 			(show_name no)
 			(do_not_autoplace no)
